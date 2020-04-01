@@ -1,0 +1,25 @@
+# Catalog content, see https://lab.github.com/docs/content-for-the-catalog
+title:
+description:
+tags:
+  
+# Template repo, see https://lab.github.com/docs/template-block
+template:
+  repo:
+  name:
+
+# Before block, see https://lab.github.com/docs/before-block
+before:
+
+# Steps block, see https://lab.github.com/docs/steps-block
+steps:
+
+  # A step
+  - title: 
+    description: 
+    event: 
+    link: 
+
+    # To use actions, see https://lab.github.com/docs/using-actions
+    # For a list of all actions, see https://lab.github.com/docs/actions/
+    actions:
